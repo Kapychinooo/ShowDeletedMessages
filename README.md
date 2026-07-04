@@ -6,6 +6,8 @@
 
 # Click [here](https://github.com/Kapychinooo/ShowDeletedMessages/blob/main/README.en.md) to read the English version
 
+---
+
 ## Что умеет
 
 - Показывает удалённые сообщения с пометкой **УДАЛЕНО**
