@@ -68,4 +68,10 @@ The plugin hooks into Discord's Flux Dispatcher:
 
 Kapychinooo
 
+## For developers
+
+```
+I did not use artificial intelligence to create the plugin, everything is signed in the plugin files so that it would be convenient for other people to redo something for themselves.
+```
+
 If you have any questions, write to diskord @kakao_cs
