@@ -4,6 +4,8 @@ A [BetterDiscord](https://betterdiscord.app) plugin that shows deleted messages 
 
 ---
 
+# Кликните [сюда](https://github.com/Kapychinooo/ShowDeletedMessages/blob/main/README.md), чтобы прочитать русскую версию.
+
 ## Features
 
 - Displays deleted messages with a **DELETED** badge
