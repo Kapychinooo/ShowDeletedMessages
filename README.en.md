@@ -66,6 +66,6 @@ The plugin hooks into Discord's Flux Dispatcher:
 
 ## Author
 
-Kapychinooo: 
-DISCORD - @kakao_cs
+Kapychinooo
 
+If you have any questions, write to diskord @kakao_cs
