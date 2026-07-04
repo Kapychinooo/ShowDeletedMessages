@@ -68,5 +68,6 @@
 
 ## Автор
 
-Kapychinooo: 
-DISCORD - @kakao_cs
+Kapychinooo
+
+По всем вопросам писать в дискорд @kakao_cs
